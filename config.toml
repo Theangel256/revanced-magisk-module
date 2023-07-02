@@ -8,7 +8,7 @@ build-mindetach-module = true
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "universal"
-version = "18.19.35"
+version = "18.25.39"
 excluded-patches = "always-autorepeat copy-video-url custom-branding disable-zoom-haptics enable-debugging external-downloads hide-email-address hide-seekbar hide-timestamp premium-heading return-youtube-dislike seekbar-tapping swipe-controls tablet-mini-player theme vanced-microg-support video-speed wide-searchbar"
 dpi = "nodpi"
 build-mode = "module" # 'both', 'apk' or 'module'. default: apk
